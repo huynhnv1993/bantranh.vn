@@ -1,0 +1,39 @@
+body{
+    margin-top:70px;
+}
+/* Thiết lập CSS cho table trong giỏ hàng */
+.table td:nth-child(3),.table th:nth-child(3),.table td:nth-child(4),.table th:nth-child(4){
+    text-align:left;
+}
+.table th, .table td{
+    text-align: center;
+}
+.table td{
+    vertical-align: middle !important;
+}
+
+#cart{
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+.panel_title{
+    padding-left: 20px;
+}
+.panel_icon{
+    padding-left:10px;
+}
+.info_sp{
+    height: 240px;
+}
+.name_sp{
+    
+    height: 40px;
+}
+
+#signin{
+    margin-top: 50px;
+}
+#signup{
+    margin-top: 10px;
+}
